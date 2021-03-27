@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+###Skills: VUE JS / REACT / JS / HTML / CSS
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mihinN&show_icons=true&theme=radical)
 
 - 🔭 I’m currently working on this page. 
