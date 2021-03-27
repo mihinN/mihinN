@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm Mihin Nimnaka
-## Skills and Experience 
+### Skills and Experience 
  * 🖥️  HTML / CSS / JS / PHP
  * 🧮  C / C++ / C# / JAVA 
 
