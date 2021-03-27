@@ -1,5 +1,4 @@
-### Hi there 👋
-### Hi there 👋, My name is Mihin Nimnaka
+### Hi, My name is Mihin Nimnaka
 #### I am GitHub Readme Generator's creator
 ![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
