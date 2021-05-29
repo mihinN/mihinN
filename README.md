@@ -5,7 +5,7 @@
 ````
 
 ````bash
-> echo --contact
+> echo "wanna_contact" ; 
 > linkedin: mihin-nimnaka-8b6961140
 > instagram: _mihin_nimn4ka_
 > github: mihinN
