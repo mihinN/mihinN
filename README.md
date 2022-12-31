@@ -34,11 +34,10 @@ Skills
 ![Linux](http://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux)
 </br>
 
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mihinN&theme=dark&background=000000)](https://git.io/streak-stats) 
 <img align = "right" src = "https://media4.giphy.com/media/hq7O4BvUNmjLicWaST/giphy.gif?cid=ecf05e47pxsc80ubn0smax3q06ty9yb6z1l4bznk61o1gyf1&rid=giphy.gif&ct=g" width = "320"  height = "200" >
-<p align = "right">
 
-</p>
+
 
 
 
