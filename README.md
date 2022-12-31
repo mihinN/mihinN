@@ -35,7 +35,7 @@ Skills
 </br>
 
 
-<img align = "right" src = "https://media.giphy.com/media/84SFZf1BKgzeny1WxQ/giphy.gif" width = "320"  height = "200" >
+<img align = "right" src = "https://media4.giphy.com/media/hq7O4BvUNmjLicWaST/giphy.gif?cid=ecf05e47pxsc80ubn0smax3q06ty9yb6z1l4bznk61o1gyf1&rid=giphy.gif&ct=g" width = "320"  height = "200" >
 <p align = "right">
 
 </p>
