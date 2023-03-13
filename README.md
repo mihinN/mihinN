@@ -4,10 +4,8 @@
 > pwd 
 > srilanka/matara
 > help --info
-> A cyber security and open source enthusianst who mainly programs in C++ and recently ventured out into Rust*
+> A cyber security and open source enthusianst who mainly programs in C++ and recently ventured out into Rust
 > Currently an undergraduate student in cyber security at the NSBM green university.
-
-* still learning :)
 ````
 <p align="center">
   <img src = "https://media4.giphy.com/media/hq7O4BvUNmjLicWaST/giphy.gif?cid=ecf05e47pxsc80ubn0smax3q06ty9yb6z1l4bznk61o1gyf1&rid=giphy.gif&ct=g" width = "320" height = "200" style="border-radius:5px;">
