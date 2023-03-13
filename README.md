@@ -6,15 +6,6 @@
 > help --info
 > A cyber security and open source enthusianst who mainly programs in C++ and recently ventured out into Rust*
 > Currently an undergraduate student in cyber security at the NSBM green university.
-
-````
-
-````bash
-> echo "wanna_contact" ; 
-> linkedin: mihin-nimnaka
-> instagram: mihin.nimnaka
-> github: mihinN
-
 ````
 ````bash
 Skills 
@@ -22,7 +13,7 @@ Skills
 * Develop Systems, using 
 > C & C++
 > C#
-> Rust [Currently Learning]
+> Rust*
 
 * Doing Web Stuffs using 
 > Html | Css | Js | PHP
@@ -39,6 +30,8 @@ Some of the technologies I have worked with
 > Linux
 > Nginx
 > DigitalOcean
+
+* - still learning -
 ````
 </br>
 
