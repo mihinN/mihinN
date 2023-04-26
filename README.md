@@ -3,8 +3,8 @@
 > #=> Hi , I'm Mihin , 
 > pwd 
 > srilanka/matara
-> help --info
-> A cyber security and open source enthusianst who mainly programs in C++ and recently ventured out into Rust
+> cat info.bla | grep info
+> info : A cyber security and open source enthusianst who mainly programs in C++ and recently ventured out into Rust
 > Currently an undergraduate student in cyber security at the NSBM green university.
 ````
 <p align="center">
