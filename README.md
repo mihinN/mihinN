@@ -11,7 +11,7 @@
 </p>
   <p align="center">
     <a href="https://mihinn.github.io/blog">Blog</a> |
-    <a href="www.linkedin.com/in/mihin-nimnaka">Linkedin</a>
+    <a href="https://linkedin.com/in/mihin-nimnaka">Linkedin</a>
     </p>
 
 
